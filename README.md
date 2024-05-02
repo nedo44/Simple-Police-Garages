@@ -4,7 +4,7 @@ This scipt uses OX-Target, to create very simple police garages script
 
 ### Requirements
 * Auto mode
-  * [ox_target]([https://github.com/esx-framework/esx_billing](https://github.com/overextended/ox_target))
+  * [ox_target]([https://github.com/esx-framework/esx_billing](https://github.com/overextended/ox_target)
 
 * Player management (boss actions and armory with buyable weapons)
   * [esx_addoninventory](https://github.com/esx-framework/esx_addoninventory)
