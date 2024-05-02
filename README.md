@@ -1,11 +1,10 @@
-<h1 align='center'>[ESX] Police job</a></h1><p align='center'><b><a href='https://discord.esx-framework.org/'>Discord</a> - <a href='https://documentation.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
+<h1 align='center'>[ESX] Police garage</a></h1><p align='center'>
 
-This resource for ESX adds police armories, vehicle garages and ability for cops to search, handcuff people and much more.
+This scipt uses OX-Target, to create very simple police garages script
 
 ### Requirements
 * Auto mode
-  * [esx_billing](https://github.com/esx-framework/esx_billing)
-  * [esx_vehicleshop](https://github.com/esx-framework/esx_vehicleshop)
+  * [ox_target]([https://github.com/esx-framework/esx_billing](https://github.com/overextended/ox_target))
 
 * Player management (boss actions and armory with buyable weapons)
   * [esx_addoninventory](https://github.com/esx-framework/esx_addoninventory)
